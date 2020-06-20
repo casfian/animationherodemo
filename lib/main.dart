@@ -6,7 +6,7 @@ class HeroApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'hero animation',
+      title: 'Hero animation',
       home: MainScreen(),
     );
   }
